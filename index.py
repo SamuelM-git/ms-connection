@@ -1,4 +1,7 @@
-import streamlit as st
+# 1. Installez le module Streamlit Authenticator avec pip
+
+# 2. Importez le module et créez une instance d'authentification
+# import streamlit as st
 from streamlit_authenticator import Authenticate
 
 # Nos données utilisateurs doivent respecter ce format
