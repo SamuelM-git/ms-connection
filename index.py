@@ -2,6 +2,7 @@
 
 # 2. Importez le module et créez une instance d'authentification
 import streamlit as st
+# import streamlit_authenticator as stauth
 from streamlit_authenticator import Authenticate
 from streamlit_option_menu import option_menu
 
